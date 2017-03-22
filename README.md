@@ -1,2 +1,3 @@
 # FrontEnd-Challenge
-Single page webapplication using AngularJS, HTML, JavaScript, CSS and Bootsrap.
+
+This is a Single page web application developed using AngularJS, HTML, JavaScript, CSS and Bootstrap. On launching "Home" page is displayed. A "Get Form" option is provided on the menu, which throws a form to fill. An acknowledge is posted with entered "UserName" after hitting the "Submit Form". The "MyScript.js" file is the controller file used in the application for angular. "index.html" holds code for menu bar and footer. "main.html" is the home page and "FormPage.html" holds code for form to fill up. The user can enter the details in the form as my times he wants. User can switch between the home page and form page.
